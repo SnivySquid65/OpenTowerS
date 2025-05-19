@@ -1,16 +1,15 @@
-# Warning
-This is old and discontinued. I have left the Pizza Tower community.<br>
-Chances are if you're looking at this then you are in it.<br>
-<br>
-Trust me when I tell you that the best decision you can do is leave it, and do not support Tour de Pizza anymore.<br>
-Tour de Pizza and their community as a whole support and encourage extreme toxicity. Same goes for Summitsphere BTW.<br>
-If I had to list every horrible thing they've done to me and my friends this page wouldn't be able to load anymore.<br>
-<br>
-The `csx` file included in this repository probably no longer works.<br>
-I won't be maintaining it for obvious reasons.
+# Open Tower S(nivy)
+Build another tower using self obtained source from your copy!
+
+# A foreword
+I refuse to involve myself in any drama regarding Lila, Pizza Tower, or anything else. This project intends to further document and make minor updates to Open Tower.
+
+For more info on my stance and the state of this continuation, read `STATUS.md`.
+
+This repo is still a Work In Progress, and incomplete. Reporting issues is appreciated, but might not do much good right now.
 
 # Attribution
-OpenTower is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt (modify), but you must give the appropriate credit.
+OpenTower is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt (modify), but you must give the appropriate credit. Read for more info.
 
 # Requirements
 - [Pizza Tower on Steam](https://store.steampowered.com/app/2231450/Pizza_Tower/)
@@ -54,7 +53,4 @@ If you want to move to a future GameMaker version you'll need to make some chang
 If you normally use a newer GameMaker version, opening the old one will lead to the IDE getting stuck in a dark gray screen. To fix this, delete the `%programdata%/GameMakerStudio2` folder while the IDE is closed and then reopen it.
 
 ### ImageMagick error when opening .csx
-You have the wrong UndertaleModTool version. Get [Bleeding Edge](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/bleeding-edge), not a fork or a release.
-
-### Please update this
-No.
+(Solution outdated, please wait for future resolution) You have the wrong UndertaleModTool version. Get [Bleeding Edge](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/bleeding-edge), not a fork or a release.
