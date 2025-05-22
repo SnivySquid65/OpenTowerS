@@ -54,4 +54,5 @@ If you normally use a newer GameMaker version, opening the old one will lead to 
 
 ### ImageMagick error when opening .csx
 You have the wrong UndertaleModTool version, or are using the wrong script. Make sure you're using the `PTdecompiler - old UTMT.csx` script instead. Get [a version of UTMT that is version 0.5.1.0 or newer as well, if you haven't already.](https://github.com/underminersteam/undertalemodtool/releases/tag/0.5.1.0)
+
 **DO NOT USE BLEEDING EDGE!! IT IS CONSTANTLY IN DEVELOPMENT AND MAY NOT BE A GOOD IDEA TO USE JUST IN CASE SUPPORT FOR THE SCRIPT BREAKS!**
