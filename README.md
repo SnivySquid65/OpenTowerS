@@ -4,7 +4,7 @@ Build another tower using self obtained source from your copy!
 # A foreword
 I refuse to involve myself in any drama regarding Lila, Pizza Tower, or anything else. This project intends to further document and make minor updates to Open Tower.
 
-For more info on my stance and the state of this continuation, read `NOTICE.md`.
+For more info on my stance and the state of this continuation, read [NOTICE.md](https://snivysquid65.github.io/OpenTowerS/NOTICE.html).
 
 This repo is still a Work In Progress, and incomplete. Reporting issues is appreciated, but might not do much good right now.
 
