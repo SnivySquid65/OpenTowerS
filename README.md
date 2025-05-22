@@ -1,4 +1,4 @@
-# Open Tower S(nivy)
+# Open TowerS(nivy)
 Build another tower using self obtained source from your copy!
 
 # A foreword
