@@ -15,9 +15,9 @@ OpenTower is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 - [Pizza Tower on Steam](https://store.steampowered.com/app/2231450/Pizza_Tower/)
 - [GameMaker 2023.1.1.62](https://gms.yoyogames.com/GameMaker-Installer-2023.1.1.62.exe)
 - [Steamworks SDK v1.55](https://partner.steamgames.com/downloads/steamworks_sdk_155.zip)
-- A certain old UndertaleModTool version, which I forgot.
+- [Undertale Mod Tool Version 0.5.1.0 or Newer](https://github.com/underminersteam/undertalemodtool/releases/tag/0.5.1.0/)
 
-This repository doesn't include any of the datafiles (FMOD, langs) or sprites. An [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/bleeding-edge) script is included to extract everything needed from the `data.win`, and port the required files to the decomp folder.
+This repository doesn't include any of the datafiles (FMOD, langs) or sprites. An [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/0.5.1.0) script is included to extract everything needed from the `data.win`, and port the required files to the decomp folder.
 
 # The Script
 
@@ -25,7 +25,7 @@ This repository doesn't include any of the datafiles (FMOD, langs) or sprites. A
 
 <img src="github/guide1.png">
 
-2. Go to the decomp's folder, and select the `PTdecompiler.csx` file.
+2. Go to the decomp's folder, and select the `PTdecompiler - old UTMT.csx` file. (the new script doesn't work with any versions I can find, you can also run the old script on newer UTMT versions no problem.)
 
 <img src="github/guide2.png">
 
@@ -53,4 +53,4 @@ If you want to move to a future GameMaker version you'll need to make some chang
 If you normally use a newer GameMaker version, opening the old one will lead to the IDE getting stuck in a dark gray screen. To fix this, delete the `%programdata%/GameMakerStudio2` folder while the IDE is closed and then reopen it.
 
 ### ImageMagick error when opening .csx
-(Solution outdated, please wait for future resolution) You have the wrong UndertaleModTool version. Get [Bleeding Edge](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/bleeding-edge), not a fork or a release.
+You have the wrong UndertaleModTool version, or are using the wrong script. Make sure you're using the `PTdecompiler - old UTMT.csx` script instead. Get [a version of UTMT that is version 0.5.1.0 or newer as well, if you haven't already.](https://github.com/underminersteam/undertalemodtool/releases/tag/0.5.1.0)
