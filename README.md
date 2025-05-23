@@ -1,12 +1,26 @@
 # Open TowerS(nivy)
 Build another tower using self obtained source from your copy!
 
+# Contributing
+You can contribute to this repository in many ways! Help by:
+- Creating well written, and helpful issues
+- Making a discussion page on a new, more efficient script or a page on porting the game to a different platform (ex. Linux, MacOS, Android, etc.), for example.
+- Making a pull request, by far the most helpful, add and subtract from scripts, and other things!
+
+# Credits
+This repository is currently maintained by...
+- SnivySquid65 (OpenTowerS, original commits to OpenTowerS and revised instructions)
+
+Previously contributed to by:
+- Lila / @femloy (Original OpenTower)
+- @crystallizedsparkle (Original OpenTower)
+- DogMatt / @doggywatty (Original OpenTower)
+- Carl Barahona / @cccarl (Original OpenTower)
+
 # A foreword
 I refuse to involve myself in any drama regarding Lila, Pizza Tower, or anything else. This project intends to further document and make minor updates to Open Tower.
 
 For more info on my stance and the state of this continuation, read [NOTICE.md](https://snivysquid65.github.io/OpenTowerS/NOTICE.html).
-
-This repo is still a Work In Progress, and incomplete. Reporting issues is appreciated, but might not do much good right now.
 
 # Attribution
 OpenTower is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt (modify), but you must give the appropriate credit. Read for more info.
