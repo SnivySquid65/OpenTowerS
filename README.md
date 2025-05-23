@@ -8,7 +8,7 @@ You can contribute to this repository in many ways! Help by:
 - Making a pull request, by far the most helpful, add and subtract from scripts, and other things!
 
 # Credits
-This repository is currently maintained by...
+This repository is currently maintained by:
 - SnivySquid65 (OpenTowerS, original commits to OpenTowerS and revised instructions)
 
 Previously contributed to by:
