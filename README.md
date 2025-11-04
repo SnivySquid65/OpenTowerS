@@ -1,11 +1,10 @@
-# Open TowerS(nivy)
-Build another tower using self obtained source from your copy!
+# This repo is dead.
+Compared to other decomps, OpenTower is bad. The documentation I made works, I'm leaving it as is.
+Personally, you should check out Pizza Tower EXtracted, a decompilation of PT thats way more accurate by setupwitch.
+At this point, I'm pretty sure the most you can use OpenTower for is using it as a base for a Cheesed Up! decompilation or something, maybe compare it to the leaked Final Round code. That is all.
 
-# Contributing
-You can contribute to this repository in many ways! Help by:
-- Creating well written, and helpful issues
-- Making a discussion page on a new, more efficient script or a page on porting the game to a different platform (ex. Linux, MacOS, Android, etc.), for example.
-- Making a pull request, by far the most helpful, add and subtract from scripts, and other things!
+# Open TowerS(nivy)
+Archive of OpenTower by Lu with documentation that works, unupdated.
 
 # Credits
 This repository is currently maintained by:
