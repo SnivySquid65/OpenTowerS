@@ -7,17 +7,17 @@ At this point, I'm pretty sure the most you can use OpenTower for is using it as
 Archive of OpenTower by Lu with documentation that works, unupdated.
 
 # Credits
-This repository is currently maintained by:
+This repository was maintained by:
 - SnivySquid65 (OpenTowerS, original commits to OpenTowerS and revised instructions)
 
-Previously contributed to by:
-- Lila / @femloy (Original OpenTower)
-- @crystallizedsparkle (Original OpenTower)
-- DogMatt / @doggywatty (Original OpenTower)
-- Carl Barahona / @cccarl (Original OpenTower)
+With its original creators being:
+- Lu (aka. Lila) / @femloy 
+- @crystallizedsparkle 
+- DogMatt / @doggywatty 
+- Carl Barahona / @cccarl 
 
 # A foreword
-I refuse to involve myself in any drama regarding Lila, Pizza Tower, or anything else. This project intends to further document and make minor updates to Open Tower.
+I refuse to involve myself in any drama regarding Lu (aka. Lila), Pizza Tower, or anything else.
 
 For more info on my stance and the state of this continuation, read [NOTICE.md](https://snivysquid65.github.io/OpenTowerS/NOTICE.html).
 
@@ -59,7 +59,7 @@ If you want to move to a future GameMaker version you'll need to make some chang
 2. New IDE versions tend to re-order and move things around, making stuff run in a different order. This breaks warps, parallax, the camera, menus... Make a controller object that runs object's step events in the correct order.
 3. Whenever text is drawn to the screen, offset it by the font's sprite origin, as horrible as that might sound. You can hook into the `draw_text` functions with some macro shenanigans.
 4. Rename the `string_split` function to something else, it's reserved now. CTRL+SHIFT+F to mass replace.
-5. Probably more. I forgot. If you got this far you can figure out the rest anyway.
+5. Probably more. I forgot. If you got this far you can figure out the rest anyway (this was written by Lu not me).
 
 # Issues
 ### Empty GameMaker
@@ -68,4 +68,4 @@ If you normally use a newer GameMaker version, opening the old one will lead to 
 ### ImageMagick error when opening .csx
 You have the wrong UndertaleModTool version, or are using the wrong script. Make sure you're using the `PTdecompiler - old UTMT.csx` script instead. Get [a version of UTMT that is version 0.5.1.0 or newer as well, if you haven't already.](https://github.com/underminersteam/undertalemodtool/releases/tag/0.5.1.0)
 
-**DO NOT USE BLEEDING EDGE!! IT IS CONSTANTLY IN DEVELOPMENT AND MAY NOT BE A GOOD IDEA TO USE JUST IN CASE SUPPORT FOR THE SCRIPT BREAKS!**
+**If you use bleeding edge... You're gonna have a bad time.**
